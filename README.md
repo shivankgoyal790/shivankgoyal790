@@ -6,6 +6,8 @@
 - 📫 How to reach me :e-mail: goyal.shivank790@gmail.com
 - ⚡ Fun fact: ANIME LOVER
 
+![](https://komarev.com/ghpvc/?username=shivankgoyal790&color=green)
+
 <html>
   <head>
     <tittle></tittle>
