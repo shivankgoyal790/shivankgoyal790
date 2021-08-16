@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on polishing my development skills
 - 🌱 I’m currently learning MERN
-- 💬 Ask me if you need help
-- 📫 How to reach me :e-mail: goyal.shivank790@gmail.com
 - ⚡ Fun fact: ANIME LOVER
 
 ![](https://komarev.com/ghpvc/?username=shivankgoyal790&color=green)
@@ -13,8 +11,16 @@
     <tittle></tittle>
   </head>
   <body>
-        
+    <br>
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/shivank-goyal-619415214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/GoyalShivank790"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="goyal.shivank790@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+       <br> 
 <h3 align="left">Languages and Tools:</h3>
+    <hr>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
